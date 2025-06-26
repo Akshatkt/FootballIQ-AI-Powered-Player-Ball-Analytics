@@ -2,7 +2,6 @@
 
 [![Model Download Link](https://img.shields.io/badge/Download%20Models-Google%20Drive-blue)](https://drive.google.com/drive/folders/11AkiuTpAJ3GOGeFYlXz3qbRCr8StLNdT?usp=sharing)
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
@@ -80,6 +79,9 @@ YOLO (You Only Look Once) is a family of state-of-the-art, real-time object dete
 - Collect bounding boxes, class labels, and probabilities.
 - Draw results with OpenCV for visualization.
 
+<!-- Adjust the width (in pixels or %) as needed for all images below. -->
+<img src="https://github.com/user-attachments/assets/6f6254fb-dde0-4b58-a106-ba54a6a0a202" alt="YOLOv8 Detection Example" width="600"/>
+
 ### Challenges and Solutions
 
 #### Challenge 1: Ball Detection Inconsistency
@@ -108,7 +110,7 @@ YOLO (You Only Look Once) is a family of state-of-the-art, real-time object dete
 - Training and validation losses decreased steadily, indicating effective learning.
 - Precision, recall, and mAP metrics improved for all classes.
 
-![image](https://github.com/user-attachments/assets/994814c2-c9b4-49b9-b63f-88d5532112eb)
+<img src="https://github.com/user-attachments/assets/a25d6c09-82df-4ac1-a25d-a625173d3722" alt="Training Results" width="800"/>
 
 ---
 
@@ -169,8 +171,7 @@ Pixel movement is not equivalent to real-world distances due to perspective.
 - Aggregate distances to compute total distance covered over time.
 - Visualize per-player stats directly on the frame, as shown below.
 
-![image](https://github.com/user-attachments/assets/7433d24a-ff87-448e-b972-0612ea11396c)
-
+<img src="https://github.com/user-attachments/assets/7433d24a-ff87-448e-b972-0612ea11396c" alt="Player Analytics Visualization" width="800"/>
 
 ---
 
