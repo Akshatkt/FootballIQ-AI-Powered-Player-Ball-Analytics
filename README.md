@@ -2,7 +2,6 @@
 
 [![Model Download Link](https://img.shields.io/badge/Download%20Models-Google%20Drive-blue)](https://drive.google.com/drive/folders/11AkiuTpAJ3GOGeFYlXz3qbRCr8StLNdT?usp=sharing)
 
-<img src="image3" alt="FootballIQ Output" width="100%"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -109,7 +108,7 @@ YOLO (You Only Look Once) is a family of state-of-the-art, real-time object dete
 - Training and validation losses decreased steadily, indicating effective learning.
 - Precision, recall, and mAP metrics improved for all classes.
 
-<img src="image1" alt="Training Metrics" width="100%"/>
+![image](https://github.com/user-attachments/assets/994814c2-c9b4-49b9-b63f-88d5532112eb)
 
 ---
 
@@ -170,7 +169,8 @@ Pixel movement is not equivalent to real-world distances due to perspective.
 - Aggregate distances to compute total distance covered over time.
 - Visualize per-player stats directly on the frame, as shown below.
 
-<img src="image3" alt="Player Analytics Visualization" width="100%"/>
+![image](https://github.com/user-attachments/assets/7433d24a-ff87-448e-b972-0612ea11396c)
+
 
 ---
 
